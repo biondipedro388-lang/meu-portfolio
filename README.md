@@ -1,16 +1,85 @@
-# React + Vite
+# Meu Portfólio — Pedro Biondi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfólio pessoal desenvolvido para apresentar minha trajetória como estudante de Análise e Desenvolvimento de Sistemas, minhas habilidades e meus projetos de desenvolvimento web.
 
-Currently, two official plugins are available:
+🌐 **Acesse o portfólio:** https://meu-portfolio-nu-tan.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 👨‍💻 Sobre o projeto
 
-## React Compiler
+Este projeto foi criado para reunir minhas informações profissionais, apresentar as tecnologias que estou estudando e facilitar o acesso aos projetos que desenvolvo durante minha evolução na programação.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O site possui uma interface moderna, com tema escuro e layout responsivo para diferentes tamanhos de tela.
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Apresentação pessoal e profissional.
+- Seção sobre mim.
+- Exibição das tecnologias estudadas.
+- Apresentação do projeto FootballStats.
+- Links para aplicações publicadas e repositórios no GitHub.
+- Contato por e-mail.
+- Layout adaptável para dispositivos móveis e computadores.
+
+## 🛠️ Tecnologias utilizadas
+
+- React
+- Vite
+- JavaScript
+- HTML
+- CSS
+
+## 🚀 Executar o projeto localmente
+
+### Pré-requisitos
+
+- [Node.js](https://nodejs.org/)
+- Git (opcional, para clonar o repositório)
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/biondipedro388-lang/meu-portfolio.git
+```
+
+### 2. Entrar na pasta do projeto
+
+```bash
+cd meu-portfolio
+```
+
+### 3. Instalar as dependências
+
+```bash
+npm install
+```
+
+### 4. Iniciar o servidor de desenvolvimento
+
+```bash
+npm run dev
+```
+
+O terminal mostrará o endereço local para abrir o site no navegador.
+
+### 5. Gerar a versão de produção
+
+```bash
+npm run build
+```
+
+## ⚽ Projeto em destaque: FootballStats
+
+Aplicação web voltada ao acompanhamento de carreiras de jogadores e treinadores de futebol, com temporadas, estatísticas e conquistas.
+
+- **Aplicação:** https://football-stats-fdff1.web.app/
+- **Repositório:** https://github.com/biondipedro388-lang/football-stats
+
+## 📫 Contato
+
+- **GitHub:** https://github.com/biondipedro388-lang
+- **E-mail:** biondipedro388@gmail.com
+- **Portfólio:** https://meu-portfolio-nu-tan.vercel.app/
+
+---
+
+Desenvolvido por Pedro Biondi como parte da minha jornada de aprendizado em desenvolvimento web.
